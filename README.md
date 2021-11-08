@@ -38,8 +38,14 @@ some notes for your help:
 * [documentation](https://docs.microsoft.com/en-us/azure/devops/artifacts/index?view=azdevops)
 
 ## extensions
-* [market place](https://marketplace.visualstudio.com/azuredevops) - extensions for azure devops
 * [aws toolkit for azure devops](https://marketplace.visualstudio.com/items?itemname=amazonwebservices.aws-vsts-tools) - the aws toolkit for azure devops adds tasks to easily enable build and release pipelines in azure devops to work with aws services
+* [delivery plans](https://marketplace.visualstudio.com/items?itemname=ms.vss-plans) - delivery plans allow us to create a timelined overview over all iterations and planned work items cross projects and teams
+* [feature timeline and epic roadmap](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.workitem-feature-timeline-extension) - this extention can be used to plan epics (cross projects) and features in a project over all iterations. also it shows the status and progress of work items to feature completion
+* [market place](https://marketplace.visualstudio.com/azuredevops) - extensions for azure devops
+* [retrospective board](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.team-retrospectives) - easy way to create customizable retrospective boards. it allows us to quickly set up for sprint iterations and has all the abilities like vote, group, collect and categorize team input
+* [team calendar](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.team-calendar) - the team calendar allows teams to organize while not having to sync company calendars
+* [team project health on dashboard](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.teamprojecthealth) - this widget provides a brief overview of project health for instance pipeline runs and more details
+* [work item details on dashboard](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.workitemdetails) - the work item details can be displayed on the dashboard to give for example stakeholders a brief and quick overview of that is currently in progress
 
 ## others
 * [azure demo generator](https://azuredevopsdemogenerator.azurewebsites.net/) - helps you create projects on your azure devops organization with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and release definitions based on a template you choose
