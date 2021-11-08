@@ -55,4 +55,6 @@ some notes for your help:
 * [azure devops blog](https://blogs.msdn.microsoft.com/devops/) - devops, git, and agile updates from the team building azure devops
 * [azure devops documentation](https://github.com/MicrosoftDocs/azure-devops-docs) -  home of the official azure devops documentation
 * [azure devops features timeline](https://docs.microsoft.com/en-us/azure/devops/release-notes/) - release notes and features timeline from azure devops team
+* [azure devops lab](https://azuredevopslabs.com/) - exercises and examples of use of azure devops services
 * [azure periodic table](http://www.concurrency.com/landing/azure-periodic-table) - periodic table for all services provided by azure
+* [microsoft learn](https://docs.microsoft.com/en-us/learn/) - microsoft learning platform with different learning paths available
