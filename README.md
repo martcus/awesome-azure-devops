@@ -24,18 +24,23 @@ some notes for your help:
 * send a _pull request_ to contribute
 
 ## boards
+* [overview](https://azure.microsoft.com/en-us/services/devops/boards) - plan, track, and discuss work across your teams
 * [documentation](https://docs.microsoft.com/en-us/azure/devops/boards/index?view=azdevops)
 
 ## pipelines
+* [overview](https://azure.microsoft.com/en-us/services/devops/pipelines/) - continuously build, test, and deploy to any platform and cloud
 * [documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/index?view=azdevops)
 
 ## repos
+* [overview](https://azure.microsoft.com/en-us/services/devops/repos/) - get unlimited, cloud-hosted private git repos for your project
 * [documentation](https://docs.microsoft.com/en-us/azure/devops/repos/index?view=azdevops)
 
 ## test plans
+* [overview](https://azure.microsoft.com/en-us/services/devops/test-plans/) - test and ship confidently with an exploratory test toolkit
 * [documentation](https://docs.microsoft.com/en-us/azure/devops/test/index-tp?view=azdevops)
 
 ## artifacts
+* [overview](https://azure.microsoft.com/en-us/services/devops/artifacts/) - create, host, and share packages with your team
 * [documentation](https://docs.microsoft.com/en-us/azure/devops/artifacts/index?view=azdevops)
 
 ## extensions
@@ -52,7 +57,7 @@ some notes for your help:
 
 ## others
 * [azure demo generator](https://azuredevopsdemogenerator.azurewebsites.net/) - helps you create projects on your azure devops organization with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and release definitions based on a template you choose
-* [azure devops blog](https://blogs.msdn.microsoft.com/devops/) - devops, git, and agile updates from the team building azure devops
+* [azure devops blog](https://devblogs.microsoft.com/devops/) - devops, git, and agile updates from the team building azure devops
 * [azure devops documentation](https://github.com/MicrosoftDocs/azure-devops-docs) -  home of the official azure devops documentation
 * [azure devops features timeline](https://docs.microsoft.com/en-us/azure/devops/release-notes/) - release notes and features timeline from azure devops team
 * [azure devops lab](https://azuredevopslabs.com/) - exercises and examples of use of azure devops services
