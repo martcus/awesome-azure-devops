@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# awesome-azure-devops
 
-You can use the [editor on GitHub](https://github.com/martcus/awesome-azure-devops/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+a curated list of awesome resource for azure devops
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## table of contents
 
-### Markdown
+* [contributing](#contributing)
+* [boards](#boards)
+* [pipelines](#pipelines)
+* [repos](#repos)
+* [test plans](#test-plans)
+* [artifacts](#artifacts)
+* [extensions](#extensions)
+* [widget](#widget)
+* [others](#others)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## contributing
+your contributions are welcomed!
+some notes for your help:
+* check out the the _[markdown syntax](https://guides.github.com/features/mastering-markdown/) guide_
+* all text must be in _lowercase_
+* add link in _alphabetical order_
+* every link follow the syntax: _name of the resource - brief description_
+* send a _pull request_ to contribute
 
-```markdown
-Syntax highlighted code block
+## boards
+* [overview](https://azure.microsoft.com/en-us/services/devops/boards) - plan, track, and discuss work across your teams
+* [documentation](https://docs.microsoft.com/en-us/azure/devops/boards/index?view=azdevops)
 
-# Header 1
-## Header 2
-### Header 3
+## pipelines
+* [overview](https://azure.microsoft.com/en-us/services/devops/pipelines/) - continuously build, test, and deploy to any platform and cloud
+* [documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/index?view=azdevops)
 
-- Bulleted
-- List
+## repos
+* [overview](https://azure.microsoft.com/en-us/services/devops/repos/) - get unlimited, cloud-hosted private git repos for your project
+* [documentation](https://docs.microsoft.com/en-us/azure/devops/repos/index?view=azdevops)
 
-1. Numbered
-2. List
+## test plans
+* [overview](https://azure.microsoft.com/en-us/services/devops/test-plans/) - test and ship confidently with an exploratory test toolkit
+* [documentation](https://docs.microsoft.com/en-us/azure/devops/test/index-tp?view=azdevops)
 
-**Bold** and _Italic_ and `Code` text
+## artifacts
+* [overview](https://azure.microsoft.com/en-us/services/devops/artifacts/) - create, host, and share packages with your team
+* [documentation](https://docs.microsoft.com/en-us/azure/devops/artifacts/index?view=azdevops)
 
-[Link](url) and ![Image](src)
-```
+## extensions
+* [aws toolkit for azure devops](https://marketplace.visualstudio.com/items?itemname=amazonwebservices.aws-vsts-tools) - the aws toolkit for azure devops adds tasks to easily enable build and release pipelines in azure devops to work with aws services
+* [delivery plans](https://marketplace.visualstudio.com/items?itemname=ms.vss-plans) - delivery plans allow us to create a timelined overview over all iterations and planned work items cross projects and teams
+* [feature timeline and epic roadmap](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.workitem-feature-timeline-extension) - this extention can be used to plan epics (cross projects) and features in a project over all iterations. also it shows the status and progress of work items to feature completion
+* [market place](https://marketplace.visualstudio.com/azuredevops) - extensions for azure devops
+* [retrospective board](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.team-retrospectives) - easy way to create customizable retrospective boards. it allows us to quickly set up for sprint iterations and has all the abilities like vote, group, collect and categorize team input
+* [team calendar](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.team-calendar) - the team calendar allows teams to organize while not having to sync company calendars
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## widget
+* [team project health on dashboard](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.teamprojecthealth) - this widget provides a brief overview of project health for instance pipeline runs and more details
+* [work item details on dashboard](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.workitemdetails) - the work item details can be displayed on the dashboard to give for example stakeholders a brief and quick overview of that is currently in progress
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/martcus/awesome-azure-devops/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## others
+* [azure demo generator](https://azuredevopsdemogenerator.azurewebsites.net/) - helps you create projects on your azure devops organization with pre-populated sample content that includes source code, work items, iterations, service endpoints, build and release definitions based on a template you choose
+* [azure devops blog](https://devblogs.microsoft.com/devops/) - devops, git, and agile updates from the team building azure devops
+* [azure devops documentation](https://github.com/MicrosoftDocs/azure-devops-docs) -  home of the official azure devops documentation
+* [azure devops features timeline](https://docs.microsoft.com/en-us/azure/devops/release-notes/) - release notes and features timeline from azure devops team
+* [azure devops lab](https://azuredevopslabs.com/) - exercises and examples of use of azure devops services
+* [azure periodic table](http://www.concurrency.com/landing/azure-periodic-table) - periodic table for all services provided by azure
+* [microsoft learn](https://docs.microsoft.com/en-us/learn/) - microsoft learning platform with different learning paths available
