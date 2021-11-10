@@ -21,9 +21,10 @@ jobs:
           path: gh-pages
       - run: |
           cd ./master
+          ls -al
           HASH=$(git log -n 1 --pretty=format:"%h")
           cp ./master/README.md ./gh-pages/index.md
-          cd ghpages
+          cd gh-pages
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
