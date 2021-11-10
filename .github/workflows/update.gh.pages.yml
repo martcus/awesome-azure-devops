@@ -1,0 +1,31 @@
+on:
+  push:
+    branches:
+      - master
+
+name: Update Github Pages
+jobs:
+  update-ghpages:
+    runs-on: ubuntu-latest
+    name: Update Github Pages
+    steps:
+      - name: Checkout master branch
+        uses: actions/checkout@v2
+        with:
+          ref: master
+          path: master
+      - name: Checkout ghpages branch
+        uses: actions/checkout@v2
+        with:
+          ref: ghpages
+          path: ghpages
+      - run: |
+          cd ./master
+          HASH=$(git log -n 1 --pretty=format:"%h")
+          cp ./master/README.md ./ghpages/index.md
+          cd ghpages
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "synch with the $HASH commit from master branch"
+          git push
