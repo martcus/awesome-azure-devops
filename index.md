@@ -24,24 +24,29 @@ some notes for your help:
 * send a _pull request_ to contribute
 
 ## boards
-* [overview](https://azure.microsoft.com/en-us/services/devops/boards) - plan, track, and discuss work across your teams
-* [documentation](https://docs.microsoft.com/en-us/azure/devops/boards/index?view=azdevops)
+* [overview](https://azure.microsoft.com/en-us/services/devops/boards) - plan, track, and discuss work across teams. define and update issues, bugs, user stories, & other work with customizable scrum, kanban, and agile tools.
+* [documentation](https://docs.microsoft.com/en-us/azure/devops/boards/index?view=azdevops) - azure boards documentation
 
 ## pipelines
-* [overview](https://azure.microsoft.com/en-us/services/devops/pipelines/) - continuously build, test, and deploy to any platform and cloud
-* [documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/index?view=azdevops)
+* [overview](https://azure.microsoft.com/en-us/services/devops/pipelines/) - implement continuous integration and continuous delivery (ci/cd) for the app and platform of your choice
+* [documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/index?view=azdevops) - azure pipelines documentation
+* [expressions](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/expressions?view=azure-devops) - expressions can be used in many places where you need to specify a string, boolean, or number value when authoring a pipeline
+* [variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2Cbatch) - variables give you a convenient way to get key bits of data into various parts of the pipeline
+* [templates](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops) - templates let you define reusable content, logic, and parameters
+* [conditions](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/conditions?view=azure-devops&tabs=yaml) - you can specify the conditions under which each stage, job, or step runs
+* [logging commands](https://docs.microsoft.com/en-us/azure/devops/pipelines/scripts/logging-commands?view=azure-devops&tabs=bash) - logging commands are how tasks and scripts communicate with the agent
 
 ## repos
-* [overview](https://azure.microsoft.com/en-us/services/devops/repos/) - get unlimited, cloud-hosted private git repos for your project
-* [documentation](https://docs.microsoft.com/en-us/azure/devops/repos/index?view=azdevops)
+* [overview](https://azure.microsoft.com/en-us/services/devops/repos/) - collaborate on code development using free Git public and private repositories, pull requests, and code review
+* [documentation](https://docs.microsoft.com/en-us/azure/devops/repos/index?view=azdevops) - azure repos documentation
 
 ## test plans
-* [overview](https://azure.microsoft.com/en-us/services/devops/test-plans/) - test and ship confidently with an exploratory test toolkit
-* [documentation](https://docs.microsoft.com/en-us/azure/devops/test/index-tp?view=azdevops)
+* [overview](https://azure.microsoft.com/en-us/services/devops/test-plans/) - improve your overall code quality by using manual and exploratory testing services for your apps
+* [documentation](https://docs.microsoft.com/en-us/azure/devops/test/index-tp?view=azdevops) - azure test plans documentation
 
 ## artifacts
 * [overview](https://azure.microsoft.com/en-us/services/devops/artifacts/) - create, host, and share packages with your team
-* [documentation](https://docs.microsoft.com/en-us/azure/devops/artifacts/index?view=azdevops)
+* [documentation](https://docs.microsoft.com/en-us/azure/devops/artifacts/index?view=azdevops) - azure artifacts documentation
 
 ## extensions
 * [aws toolkit for azure devops](https://marketplace.visualstudio.com/items?itemname=amazonwebservices.aws-vsts-tools) - the aws toolkit for azure devops adds tasks to easily enable build and release pipelines in azure devops to work with aws services
