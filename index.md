@@ -30,11 +30,12 @@ some notes for your help:
 ## pipelines
 * [overview](https://azure.microsoft.com/en-us/services/devops/pipelines/) - implement continuous integration and continuous delivery (ci/cd) for the app and platform of your choice
 * [documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/index?view=azdevops) - azure pipelines documentation
-* [expressions](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/expressions?view=azure-devops) - expressions can be used in many places where you need to specify a string, boolean, or number value when authoring a pipeline
-* [variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2Cbatch) - variables give you a convenient way to get key bits of data into various parts of the pipeline
-* [templates](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops) - templates let you define reusable content, logic, and parameters
-* [conditions](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/conditions?view=azure-devops&tabs=yaml) - you can specify the conditions under which each stage, job, or step runs
-* [logging commands](https://docs.microsoft.com/en-us/azure/devops/pipelines/scripts/logging-commands?view=azure-devops&tabs=bash) - logging commands are how tasks and scripts communicate with the agent
+  * [conditions](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/conditions?view=azure-devops&tabs=yaml) - you can specify the conditions under which each stage, job, or step runs
+  * [expressions](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/expressions?view=azure-devops) - expressions can be used in many places where you need to specify a string, boolean, or number value when authoring a pipeline
+  * [logging commands](https://docs.microsoft.com/en-us/azure/devops/pipelines/scripts/logging-commands?view=azure-devops&tabs=bash) - logging commands are how tasks and scripts communicate with the agent
+  * [predefined variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml) - variables give you a convenient way to get key bits of data into various parts of your pipeline. this is a list of predefined variables that are available for your use.
+  * [templates](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops) - templates let you define reusable content, logic, and parameters
+  * [variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2Cbatch) - variables give you a convenient way to get key bits of data into various parts of the pipeline
 
 ## repos
 * [overview](https://azure.microsoft.com/en-us/services/devops/repos/) - collaborate on code development using free Git public and private repositories, pull requests, and code review
