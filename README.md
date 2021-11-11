@@ -1,6 +1,7 @@
 # awesome-azure-devops
-
 a curated list of awesome resource for azure devops
+
+[![update github pages](https://github.com/martcus/awesome-azure-devops/actions/workflows/update.gh.pages.yml/badge.svg)](https://github.com/martcus/awesome-azure-devops/actions/workflows/update.gh.pages.yml)
 
 ## table of contents
 
