@@ -51,6 +51,7 @@ some notes for your help:
 
 ## extensions
 * [aws toolkit for azure devops](https://marketplace.visualstudio.com/items?itemname=amazonwebservices.aws-vsts-tools) - the aws toolkit for azure devops adds tasks to easily enable build and release pipelines in azure devops to work with aws services
+* [azure pipelines for vs code](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines) - this extentions adds syntax highlighting and autocompletion for azure pipelines yaml to vs code. it also helps you set up continuous build and deployment for azure webapps without leaving vs code
 * [delivery plans](https://marketplace.visualstudio.com/items?itemname=ms.vss-plans) - delivery plans allow us to create a timelined overview over all iterations and planned work items cross projects and teams
 * [feature timeline and epic roadmap](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.workitem-feature-timeline-extension) - this extention can be used to plan epics (cross projects) and features in a project over all iterations. also it shows the status and progress of work items to feature completion
 * [market place](https://marketplace.visualstudio.com/azuredevops) - extensions for azure devops
