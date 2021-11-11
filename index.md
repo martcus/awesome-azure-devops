@@ -34,9 +34,11 @@ some notes for your help:
   * [conditions](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/conditions?view=azure-devops&tabs=yaml) - you can specify the conditions under which each stage, job, or step runs
   * [expressions](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/expressions?view=azure-devops) - expressions can be used in many places where you need to specify a string, boolean, or number value when authoring a pipeline
   * [logging commands](https://docs.microsoft.com/en-us/azure/devops/pipelines/scripts/logging-commands?view=azure-devops&tabs=bash) - logging commands are how tasks and scripts communicate with the agent
+  * [pipelines trigger](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/triggers?view=azure-devops) - use triggers to run a pipeline automatically
   * [predefined variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml) - variables give you a convenient way to get key bits of data into various parts of your pipeline. this is a list of predefined variables that are available for your use.
   * [templates](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops) - templates let you define reusable content, logic, and parameters
   * [variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2Cbatch) - variables give you a convenient way to get key bits of data into various parts of the pipeline
+  * [yaml schema reference](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2Cparameter-schema) - detailed reference guide to azure pipelines yaml pipelines
 
 ## repos
 * [overview](https://azure.microsoft.com/en-us/services/devops/repos/) - collaborate on code development using free Git public and private repositories, pull requests, and code review
