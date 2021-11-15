@@ -75,3 +75,4 @@ some notes for your help:
 * [azure devops lab](https://azuredevopslabs.com/) - exercises and examples of use of azure devops services
 * [azure periodic table](http://www.concurrency.com/landing/azure-periodic-table) - periodic table for all services provided by azure
 * [microsoft learn](https://docs.microsoft.com/en-us/learn/) - microsoft learning platform with different learning paths available
+  * [learning path for azure devops](https://docs.microsoft.com/en-gb/learn/paths/evolve-your-devops-practices/)
