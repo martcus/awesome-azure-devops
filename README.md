@@ -44,7 +44,7 @@ some notes for your help:
 ## repos
 * [overview](https://azure.microsoft.com/en-us/services/devops/repos/) - collaborate on code development using free Git public and private repositories, pull requests, and code review
 * [documentation](https://docs.microsoft.com/en-us/azure/devops/repos/index?view=azdevops) - azure repos documentation
-* [branching strategy]
+* branching strategy
   * [gitflow](https://nvie.com/posts/a-successful-git-branching-model/)
   * [release flow](http://releaseflow.org/)
   * [release flow @ vsts team](https://devblogs.microsoft.com/devops/release-flow-how-we-do-branching-on-the-vsts-team/)
