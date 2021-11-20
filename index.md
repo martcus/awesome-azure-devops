@@ -5,7 +5,6 @@ a curated list of awesome resource for azure devops
 
 ## table of contents
 
-* [contributing](#contributing)
 * [boards](#boards)
 * [pipelines](#pipelines)
 * [repos](#repos)
@@ -14,15 +13,6 @@ a curated list of awesome resource for azure devops
 * [extensions](#extensions)
 * [widget](#widget)
 * [others](#others)
-
-## contributing
-your contributions are welcomed!
-some notes for your help:
-* check out the the _[markdown syntax](https://guides.github.com/features/mastering-markdown/) guide_
-* all text must be in _lowercase_
-* add link in _alphabetical order_
-* every link follow the syntax: _name of the resource - brief description_
-* send a _pull request_ to contribute
 
 ## boards
 * [overview](https://azure.microsoft.com/en-us/services/devops/boards) - plan, track, and discuss work across teams. define and update issues, bugs, user stories, & other work with customizable scrum, kanban, and agile tools.
@@ -64,7 +54,7 @@ some notes for your help:
 * [azure pipelines for vs code](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines) - this extentions adds syntax highlighting and autocompletion for azure pipelines yaml to vs code. it also helps you set up continuous build and deployment for azure webapps without leaving vs code
 * [delivery plans](https://marketplace.visualstudio.com/items?itemname=ms.vss-plans) - delivery plans allow us to create a timelined overview over all iterations and planned work items cross projects and teams
 * [feature timeline and epic roadmap](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.workitem-feature-timeline-extension) - this extention can be used to plan epics (cross projects) and features in a project over all iterations. also it shows the status and progress of work items to feature completion
-* [gittools](https://marketplace.visualstudio.com/items?itemName=gittools.gittools) -  looks at your git history and works out the semantic version of the commit being built. it works with most branching strategies 
+* [gittools](https://marketplace.visualstudio.com/items?itemName=gittools.gittools) -  looks at your git history and works out the semantic version of the commit being built. it works with most branching strategies
 * [market place](https://marketplace.visualstudio.com/azuredevops) - extensions for azure devops
 * [retrospective board](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.team-retrospectives) - easy way to create customizable retrospective boards. it allows us to quickly set up for sprint iterations and has all the abilities like vote, group, collect and categorize team input
 * [team calendar](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.team-calendar) - the team calendar allows teams to organize while not having to sync company calendars
