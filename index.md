@@ -27,6 +27,7 @@ some notes for your help:
 ## boards
 * [overview](https://azure.microsoft.com/en-us/services/devops/boards) - plan, track, and discuss work across teams. define and update issues, bugs, user stories, & other work with customizable scrum, kanban, and agile tools.
 * [documentation](https://docs.microsoft.com/en-us/azure/devops/boards/index?view=azdevops) - azure boards documentation
+* [a brief intro to azure boards](https://dev.to/azure/azurefunbytes-a-brief-intro-to-azure-boards-m84) - a brief intro to azure boards
 
 ## pipelines
 * [overview](https://azure.microsoft.com/en-us/services/devops/pipelines/) - implement continuous integration and continuous delivery (ci/cd) for the app and platform of your choice
