@@ -1,0 +1,22 @@
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+name: Check README.md format
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    name: Check README.md format
+    steps:
+      - name: Checkout master branch
+        uses: actions/checkout@v2
+        with:
+          ref: master
+          path: master
+      - run: |
+          cd ./master
+          grep '[A-Z]' README.md
