@@ -19,4 +19,4 @@ jobs:
           path: master
       - run: |
           cd ./master
-          grep '[A-Z]' README.md
+          grep '[A-Z]' README.md && exit 1
