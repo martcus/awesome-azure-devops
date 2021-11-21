@@ -18,6 +18,7 @@ jobs:
           ref: master
           path: master
       - run: |
+          bash -x
           cd ./master
           GREP=$(grep '[A-Z]' README.md)
           if [ -z "$GREP" ]; then
