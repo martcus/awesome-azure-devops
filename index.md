@@ -74,4 +74,4 @@ a curated list of awesome resource for azure devops
   * [devops engineer certification](https://docs.microsoft.com/en-us/learn/certifications/roles/devops-engineer) - certification for devops engineer
   * [learning path for azure devops](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) - learning path for azure devops
 * vscode
- * [azure cli tools](https://marketplace.visualstudio.com/items?itemname=ms-vscode.azurecli) - scrapbooks for developing and running commands with the azure cli.
+  * [azure cli tools](https://marketplace.visualstudio.com/items?itemname=ms-vscode.azurecli) - scrapbooks for developing and running commands with the azure cli.
