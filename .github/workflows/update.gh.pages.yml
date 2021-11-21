@@ -21,17 +21,6 @@ jobs:
         with:
           ref: gh-pages
           path: gh-pages
-      - name: Check if github pages must be update    
-        run: |
-          cd ./master
-          CHECK=$(git show --stat --oneline HEAD | cat | grep README.md)
-          if [ ! -z "$CHECK" ]; then 
-            echo "Update not necessary. README.md file not modified"
-            exit 0
-          else
-            echo "Update necessary. README.md file modified"
-          fi
-          cd ../
       - name: Update github pages
         run: |
           cd ./master
