@@ -21,6 +21,16 @@ jobs:
           path: gh-pages
       - run: |
           cd ./master
+          CHECK=$(git show --stat --oneline HEAD | cat | grep README.md)
+          if [ ! -z "$var" ]; then 
+            echo "Update not necessary. README.md file not modified"
+            exit 0
+          else
+            echo "Update necessary. README.md file modified"
+          fi
+          cd ../
+      - run: |
+          cd ./master
           HASH=$(git log -n 1 --pretty=format:"%h")
           cd ..
           cp ./master/README.md ./gh-pages/index.md
