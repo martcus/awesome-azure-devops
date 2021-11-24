@@ -1,5 +1,5 @@
 # awesome-azure-devops
-a curated list of awesome resource for azure devops
+a curated list of awesome resource for azure devops [^1]
 
 [![update github pages](https://github.com/martcus/awesome-azure-devops/actions/workflows/update.gh.pages.yml/badge.svg)](https://github.com/martcus/awesome-azure-devops/actions/workflows/update.gh.pages.yml)
 
@@ -76,3 +76,5 @@ a curated list of awesome resource for azure devops
   * [learning path for azure devops](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) - learning path for azure devops
 * vscode
   * [azure cli tools](https://marketplace.visualstudio.com/items?itemname=ms-vscode.azurecli) - scrapbooks for developing and running commands with the azure cli.
+
+[^1]: [contribution guidelines for this project](./CONTRIBUTING.md)
