@@ -69,6 +69,7 @@ a curated list of awesome resource for azure devops
 * [azure devops documentation](https://github.com/microsoftdocs/azure-devops-docs) -  home of the official azure devops documentation
 * [azure devops features timeline](https://docs.microsoft.com/en-us/azure/devops/release-notes/) - release notes and features timeline from azure devops team
 * [azure devops lab](https://azuredevopslabs.com/) - exercises and examples of use of azure devops services
+* [azure devops succinctly](https://www.syncfusion.com/succinctly-free-ebooks/azure-devops-succinctly) - this free ebook covers the basics to get you up and running with boards, repos, pipelines, test plans, and more
 * [azure periodic table](http://www.concurrency.com/landing/azure-periodic-table) - periodic table for all services provided by azure
 * [microsoft learn](https://docs.microsoft.com/en-us/learn/) - microsoft learning platform with different learning paths available
   * [devops engineer certification](https://docs.microsoft.com/en-us/learn/certifications/roles/devops-engineer) - certification for devops engineer
