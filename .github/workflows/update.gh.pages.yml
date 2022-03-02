@@ -12,12 +12,12 @@ jobs:
     name: Update Github Pages
     steps:
       - name: Checkout master branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           ref: master
           path: master
       - name: Checkout ghpages branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           ref: gh-pages
           path: gh-pages
