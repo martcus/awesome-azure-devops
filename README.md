@@ -5,14 +5,14 @@ a curated list of awesome resource for azure devops [^1]
 
 ## table of contents
 
-* [boards](#boards)
-* [pipelines](#pipelines)
-* [repos](#repos)
-* [test plans](#test-plans)
-* [artifacts](#artifacts)
-* [extensions](#extensions)
-* [widget](#widget)
-* [others](#others)
+ - [boards](#boards)
+ - [pipelines](#pipelines)
+ - [repos](#repos)
+ - [test plans](#test-plans)
+ - [artifacts](#artifacts)
+ - [extensions](#extensions)
+ - [widget](#widget)
+ - [others](#others)
 
 ## boards
 * [overview](https://azure.microsoft.com/en-us/services/devops/boards) - plan, track, and discuss work across teams. define and update issues, bugs, user stories, & other work with customizable scrum, kanban, and agile tools.
@@ -44,6 +44,7 @@ a curated list of awesome resource for azure devops [^1]
 ## test plans
 * [overview](https://azure.microsoft.com/en-us/services/devops/test-plans/) - improve your overall code quality by using manual and exploratory testing services for your apps
 * [documentation](https://docs.microsoft.com/en-us/azure/devops/test/index-tp?view=azdevops) - azure test plans documentation
+* [staged execution of tests](https://jessehouwing.net/staged-execution-of-tests-in-azure-devops-pipelines/) - tests filter criteria
 
 ## artifacts
 * [overview](https://azure.microsoft.com/en-us/services/devops/artifacts/) - create, host, and share packages with your team
@@ -78,3 +79,4 @@ a curated list of awesome resource for azure devops [^1]
   * [azure cli tools](https://marketplace.visualstudio.com/items?itemname=ms-vscode.azurecli) - scrapbooks for developing and running commands with the azure cli.
 
 [^1]: [contribution guidelines for this project](./CONTRIBUTING.md)
+
