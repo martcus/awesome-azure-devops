@@ -59,6 +59,7 @@ a curated list of awesome resource for azure devops [^1]
 * [market place](https://marketplace.visualstudio.com/azuredevops) - extensions for azure devops
 * [retrospective board](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.team-retrospectives) - easy way to create customizable retrospective boards. it allows us to quickly set up for sprint iterations and has all the abilities like vote, group, collect and categorize team input
 * [team calendar](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.team-calendar) - the team calendar allows teams to organize while not having to sync company calendars
+* [buildstash](https://marketplace.visualstudio.com/items?itemName=Buildstash.buildstash-tasks) - upload and manage artifacts from pipelines, allowing for distribution to testers, and deployment to app stores and distribution platforms
 
 ## widget
 * [team project health on dashboard](https://marketplace.visualstudio.com/items?itemname=ms-devlabs.teamprojecthealth) - this widget provides a brief overview of project health for instance pipeline runs and more details
