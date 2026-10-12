@@ -31,6 +31,7 @@ a curated list of awesome resource for azure devops [^1]
   * [variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables?view=azure-devops&tabs=yaml%2cbatch) - variables give you a convenient way to get key bits of data into various parts of the pipeline
   * [yaml schema reference](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema%2cparameter-schema) - detailed reference guide to azure pipelines yaml pipelines
 * [automatic app versioning](https://www.wagner-dev.com/azure-pipelines-automatic-app-versioning.html) - learn how you can use azure pipelines to automatically generate a semantic version number
+* [trasloco](https://github.com/HarnageaGabriel/trasloco) - open-source cli and github action that finds retired azure pipelines task versions in your yaml and names the replacement for each
 
 ## repos
 * [overview](https://azure.microsoft.com/en-us/services/devops/repos/) - collaborate on code development using free git public and private repositories, pull requests, and code review
